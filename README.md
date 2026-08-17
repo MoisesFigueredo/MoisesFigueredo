@@ -41,4 +41,4 @@ Cursando Engenharia de Software na Estácio (conclusão prevista em 2027).
 
 ### Contato
 
-[moisesfigueredo.site](https://moisesfigueredo.site) · [LinkedIn](https://www.linkedin.com/in/moises-sfigueredo/) · moisesfatz@gmail.com
+[moisesfigueredo.site](https://moisesfigueredo.site) · [LinkedIn](https://www.linkedin.com/in/moises-sfigueredo/) · moisesfatz@gmail.com · contato@moisesfigueredo.site
