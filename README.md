@@ -31,9 +31,6 @@ Extensão Chrome publicada na Web Store, scraper autônomo em Playwright e dashb
 **[Venda Clara](https://vendaclara.vercel.app/)**: painel de BI para acompanhamento de vendas e performance de campanha.
 `Next.js` `TypeScript` · [código](https://github.com/MoisesFigueredo/venda-clara)
 
-**[Portfólio](https://github.com/MoisesFigueredo/portfolio)**: vitrine pessoal com todos os projetos, stack e contato.
-`HTML` `CSS` `JavaScript`
-
 Também publiquei sete funis de venda completos em português, espanhol e francês (quiz interativo, VSL, captura, upsell e checkout) e um aplicativo de split test (A/B) que distribui tráfego automaticamente entre variações de página.
 
 > ScaleLab e Offermine são produtos proprietários, então o código é fechado. Os repositórios abertos aqui ao lado mostram como eu escrevo.
